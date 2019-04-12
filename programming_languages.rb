@@ -1,7 +1,7 @@
 def reformat_languages(languages)
   new_hash = {}
-  languages.collect do |style, lang|
-  
+  languages.each do |style, lang|
+    
   
   end 
 end
